@@ -1,0 +1,21 @@
+/*让一级标题的文字颜色变成蓝色
+二级标题的文字大小变成14px
+段落的文字大小变成12px，文字颜色是黄色，带一个黑色的背景色
+图片有一个红色的，2px粗的边框*/
+
+h1{
+    color:blue;
+}
+h2{
+    font-size: 14px;
+}
+p{
+    font-size: 12px;
+    color:yellow;
+    background-color: black;
+}
+img{
+    border-style: solid;
+    border-color: red;
+    border-width: 2px;
+}
